@@ -20,4 +20,4 @@
 An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho-Collados(2018)](https://arxiv.org/pdf/1704.01444.pdf) 
 * [Universal Language Model Fine-tuning for Text Classification - Jeremy Howard(2018)](https://arxiv.org/pdf/1801.06146.pdf) 
 * [Learning to Generate Reviews and Discovering Sentiment - Alec Radford(2017)](https://arxiv.org/pdf/1704.01444.pdf) 
-
+* [Adversarial Training Methods for Semi-Supervised Text Classification - Ian Goodfellow(2017)](https://arxiv.org/pdf/1605.07725.pdf) 
