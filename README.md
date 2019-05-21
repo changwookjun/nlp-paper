@@ -4,7 +4,8 @@
 ## Contents
 * [Text Summarization](#Text-Summarization)   
 * [Sentiment Analysis](#Sentiment-Analysis)  
-
+* [Question Answering](#Question Answering)  
+  
 ### Text Summarization
 * [Positional Encoding to Control Output Sequence Length - Sho Takase(2019)](https://arxiv.org/pdf/1904.07418.pdf)  
 * [Fine-tune BERT for Extractive Summarization - Yang Liu(2019)](https://arxiv.org/pdf/1903.10318.pdf)  
@@ -27,3 +28,8 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 * [Learning to Generate Reviews and Discovering Sentiment - Alec Radford(2017)](https://arxiv.org/pdf/1704.01444.pdf) 
 * [A Structured Self-attentive Sentence Embedding - Zhouhan Lin(2017)](https://arxiv.org/pdf/1703.03130.pdf) 
 
+### Question Answering  
+* [Language Models are Unsupervised Multitask Learners - Alec Radford(2019)](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)  
+* [Bidirectional Attention Flow for Machine Comprehension - Minjoon Seo(2018)](https://arxiv.org/pdf/1611.01603.pdf) 
+* [Reinforced Mnemonic Reader for Machine Reading Comprehension - Minghao Hu(2017)](https://arxiv.org/pdf/1705.02798.pdf)  
+* [Neural Variational Inference for Text Processing - Yishu Miao(2015)](https://arxiv.org/pdf/1511.06038.pdf)  
