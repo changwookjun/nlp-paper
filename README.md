@@ -1,6 +1,8 @@
 # NLP Paper
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
+List the papers you need to study natural language processing.  
+
 ## Contents
 * [Text Summarization](#Text-Summarization)   
 * [Sentiment Analysis](#Sentiment-Analysis)  
