@@ -7,6 +7,7 @@ List the papers you need to study natural language processing.
 * [Text Summarization](#Text-Summarization)   
 * [Sentiment Analysis](#Sentiment-Analysis)  
 * [Question Answering](#Question-Answering)  
+* [Machine Translation](#Machine-Translation)  
   
 ### Text Summarization
 * [Positional Encoding to Control Output Sequence Length - Sho Takase(2019)](https://arxiv.org/pdf/1904.07418.pdf)  
@@ -36,3 +37,7 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 * [Bidirectional Attention Flow for Machine Comprehension - Minjoon Seo(2018)](https://arxiv.org/pdf/1611.01603.pdf) 
 * [Reinforced Mnemonic Reader for Machine Reading Comprehension - Minghao Hu(2017)](https://arxiv.org/pdf/1705.02798.pdf)  
 * [Neural Variational Inference for Text Processing - Yishu Miao(2015)](https://arxiv.org/pdf/1511.06038.pdf)  
+
+### Machine Translation    
+* [The Evolved Transformer - David R. So(2019)](https://arxiv.org/pdf/1901.11117.pdf)  
+
