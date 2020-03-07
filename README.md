@@ -8,7 +8,19 @@ List the papers you need to study natural language processing.
 * [Sentiment Analysis](#Sentiment-Analysis)  
 * [Question Answering](#Question-Answering)  
 * [Machine Translation](#Machine-Translation)  
-  
+* [Transfer Learning](#Transfer-Learning)  
+
+### Transfer Learning
+* [Deep contextualized word representations - NAACL 2018)](https://arxiv.org/abs/1802.05365)  
+* [Universal Language Model Fine-tuning for Text Classification  - ACL 2018)](https://arxiv.org/abs/1801.06146)  
+* [Improving Language Understanding by Generative Pre-Training  - Alec Radford)](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)  
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding  - NAACL 2019)](https://arxiv.org/abs/1810.04805)  
+* [Cloze-driven Pretraining of Self-attention Networks - arXiv 2019)](https://arxiv.org/abs/1903.07785)  
+* [Unified Language Model Pre-training for Natural Language Understanding and Generation - arXiv 2019)](https://arxiv.org/abs/1905.03197)  
+* [MASS: Masked Sequence to Sequence Pre-training for Language Generation - ICML 2019)](https://arxiv.org/abs/1905.02450)  
+
+
+
 ### Text Summarization
 * [Positional Encoding to Control Output Sequence Length - Sho Takase(2019)](https://arxiv.org/pdf/1904.07418.pdf)  
 * [Fine-tune BERT for Extractive Summarization - Yang Liu(2019)](https://arxiv.org/pdf/1903.10318.pdf)  
