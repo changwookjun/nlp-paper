@@ -9,6 +9,24 @@ List the papers you need to study natural language processing.
 * [Question Answering](#Question-Answering)  
 * [Machine Translation](#Machine-Translation)  
 * [Transfer Learning](#Transfer-Learning)  
+* [Transfer Series](#Transfer-Series)  
+* [Bert Series](#Transfer-Learning)  
+
+### Bert Series
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding  - NAACL 2019)](https://arxiv.org/abs/1810.04805)  
+* [ERNIE 2.0: A Continual Pre-training Framework for Language Understanding - arXiv 2019)](https://arxiv.org/abs/1907.12412)  
+* [StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding - arXiv 2019)](https://arxiv.org/abs/1908.04577)  
+* [RoBERTa: A Robustly Optimized BERT Pretraining Approach  - arXiv 2019)](https://arxiv.org/abs/1907.11692)  
+* [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations  - arXiv 2019)](https://arxiv.org/abs/1909.11942)  
+* [Multi-Task Deep Neural Networks for Natural Language Understanding  - arXiv 2019)](https://arxiv.org/abs/1901.11504)  
+
+### Transfer Series
+* [Attention Is All You Need - arXiv 2017)](https://arxiv.org/abs/1706.03762)  
+* [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context - arXiv 2019)](https://arxiv.org/abs/1901.02860)  
+* [Universal Transformers - ICLR 2019)](https://arxiv.org/abs/1807.03819) 
+* [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer - arXiv 2019)](https://arxiv.org/abs/1910.10683) 
+* [Reformer: The Efficient Transformer - ICLR 2020)](https://arxiv.org/abs/2001.04451) 
+
 
 ### Transfer Learning
 * [Deep contextualized word representations - NAACL 2018)](https://arxiv.org/abs/1802.05365)  
