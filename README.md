@@ -19,7 +19,7 @@ List the papers you need to study natural language processing.
 * [Probe](#probe) 
 * [Multi-lingual](#multi-lingual) 
 * [Other than English models](#other-than-english-models) 
-* [Domain specific]](#domain-specific) 
+* [Domain specific](#domain-specific) 
 * [Multi-modal](#multi-modal) 
 * [Model compression](#model-compression) 
 * [Misc](#misc) 
