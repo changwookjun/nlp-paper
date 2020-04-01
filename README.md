@@ -13,7 +13,7 @@ List the papers you need to study natural language processing.
 * [Machine Translation](#Machine-Translation)
 * [Surver paper](#survey-paper)  
 * [Downstream task](#downstream-task) 
-   * [QA MC Dialogue] (#QA-MC-Dialogue)  
+   * [QA MC Dialogue](#QA-MC-Dialogue) 
 * [Generation](#generation) 
 * [Quality evaluator](#quality-evaluator) 
 * [Modification (multi-task, masking strategy, etc.)](#modification-multi-task-masking-strategy-etc) 
