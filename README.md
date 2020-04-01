@@ -20,7 +20,7 @@ List the papers you need to study natural language processing.
 * [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations  - arXiv 2019)](https://arxiv.org/abs/1909.11942)  
 * [Multi-Task Deep Neural Networks for Natural Language Understanding  - arXiv 2019)](https://arxiv.org/abs/1901.11504)  
 
-### Transfer Series
+### Transformer Series
 * [Attention Is All You Need - arXiv 2017)](https://arxiv.org/abs/1706.03762)  
 * [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context - arXiv 2019)](https://arxiv.org/abs/1901.02860)  
 * [Universal Transformers - ICLR 2019)](https://arxiv.org/abs/1807.03819) 
