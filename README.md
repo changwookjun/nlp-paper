@@ -4,13 +4,26 @@
 List the papers you need to study natural language processing.  
 
 ## Contents
-* [Text Summarization](#Text-Summarization)   
+* [Bert Series](#Bert-Series)   
+* [Transformer Series](#Transformer-Series)  
+* [Transfer Learning](#Transfer-Learning)  
+* [Text Summarization](#Text-Summarization)  
 * [Sentiment Analysis](#Sentiment-Analysis)  
 * [Question Answering](#Question-Answering)  
-* [Machine Translation](#Machine-Translation)  
-* [Transfer Learning](#Transfer-Learning)  
-* [Transfer Series](#Transfer-Series)  
-* [Bert Series](#Transfer-Learning)  
+* [Machine Translation](#Machine-Translation)
+* [Surver paper](#survey-paper)  
+* [Downstream task](#downstream-task) 
+* [Generation](#generation) 
+* [Quality evaluator](#quality-evaluator) 
+* [Modification (multi-task, masking strategy, etc.)](#modification-multi-task-masking-strategy-etc) 
+* [Probe](#probe) 
+* [Multi-lingual](#multi-lingual) 
+* [Other than English models](#other-than-english-models) 
+* [Domain specific]](#domain-specific) 
+* [Multi-modal](#multi-modal) 
+* [Model compression](#model-compression) 
+* [Misc](#misc) 
+
 
 ### Bert Series
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding  - NAACL 2019)](https://arxiv.org/abs/1810.04805)  
@@ -70,4 +83,22 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 
 ### Machine Translation    
 * [The Evolved Transformer - David R. So(2019)](https://arxiv.org/pdf/1901.11117.pdf)  
+
+### Surver paper    
+- [Evolution of transfer learning in natural language processing](https://arxiv.org/abs/1910.07370)
+- [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/abs/2003.08271)
+- [A Survey on Contextual Embeddings](https://arxiv.org/abs/2003.07278)
+
+### Machine Translation    
+### Downstream task    
+### Generation    
+### Quality evaluator    
+### Modification (multi-task, masking strategy, etc.)    
+### Probe    
+### Multi-lingual    
+### Other than English models    
+### Domain specific    
+### Multi-modal    
+### Model compression    
+### Misc       
 
