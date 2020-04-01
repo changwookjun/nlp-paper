@@ -85,9 +85,9 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 * [The Evolved Transformer - David R. So(2019)](https://arxiv.org/pdf/1901.11117.pdf)  
 
 ### Surver paper    
-- [Evolution of transfer learning in natural language processing](https://arxiv.org/abs/1910.07370)
-- [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/abs/2003.08271)
-- [A Survey on Contextual Embeddings](https://arxiv.org/abs/2003.07278)
+* [Evolution of transfer learning in natural language processing](https://arxiv.org/abs/1910.07370)
+* [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/abs/2003.08271)
+* [A Survey on Contextual Embeddings](https://arxiv.org/abs/2003.07278)
 
 ### Machine Translation    
 ### Downstream task    
