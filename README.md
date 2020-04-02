@@ -550,3 +550,6 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 
 
 
+
+# Author
+ChangWookJun / @changwookjun (changwookjun@gmail.com)
