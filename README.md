@@ -549,6 +549,7 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 * [SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction](https://dl.acm.org/citation.cfm?id=3342186) (ACM-BCB2019)
 * [On the comparability of Pre-trained Language Models](https://arxiv.org/abs/2001.00781)
 * [Transformers: State-of-the-art Natural Language Processing](https://arxiv.org/abs/1910.03771) 
+* [Jukebox: A Generative Model for Music](https://cdn.openai.com/papers/jukebox.pdf)  
 
 
 
