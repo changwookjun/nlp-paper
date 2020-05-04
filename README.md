@@ -351,6 +351,7 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 * [Deeper Text Understanding for IR with Contextual Neural Language Modeling](https://arxiv.org/abs/1905.09217) (SIGIR2019)
 * [FAQ Retrieval using Query-Question Similarity and BERT-Based Query-Answer Relevance](https://arxiv.org/abs/1905.02851) (SIGIR2019)
 * [Multi-Stage Document Ranking with BERT](https://arxiv.org/abs/1910.14424)       
+* [REALM: Retrieval-Augmented Language Model Pre-Training](https://kentonl.com/pub/gltpc.2020.pdf)       
 
 
 ### Generation    
