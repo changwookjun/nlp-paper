@@ -337,7 +337,10 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 #### Extractive summarization
 * [HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization](https://arxiv.org/abs/1905.06566) (ACL2019)
 * [Deleter: Leveraging BERT to Perform Unsupervised Successive Text Compression](https://arxiv.org/abs/1909.03223)
-* [Discourse-Aware Neural Extractive Model for Text Summarization](https://arxiv.org/abs/1910.14142)
+* [Discourse-Aware Neural Extractive Model for Text Summarization](https://arxiv.org/abs/1910.14142)  
+* [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](https://arxiv.org/pdf/1912.08777.pdf)[[github](https://github.com/google-research/pegasus)]    
+  
+
 
 #### IR
 * [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085)
