@@ -554,6 +554,8 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 * [On the comparability of Pre-trained Language Models](https://arxiv.org/abs/2001.00781)
 * [Transformers: State-of-the-art Natural Language Processing](https://arxiv.org/abs/1910.03771) 
 * [Jukebox: A Generative Model for Music](https://cdn.openai.com/papers/jukebox.pdf)  
+* [WT5?! Training Text-to-Text Models to Explain their
+Predictions](https://arxiv.org/pdf/2004.14546.pdf)  
 
 
 
