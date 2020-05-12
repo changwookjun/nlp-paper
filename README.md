@@ -102,7 +102,8 @@ natural language processing paper list
 * [Unified Language Model Pre-training for Natural Language Understanding and Generation - arXiv 2019)](https://arxiv.org/abs/1905.03197)  
 * [MASS: Masked Sequence to Sequence Pre-training for Language Generation - ICML 2019)](https://arxiv.org/abs/1905.02450)  
 * [MPNet: Masked and Permuted Pre-training for Language Understanding)](https://arxiv.org/pdf/2004.09297.pdf)[[github](https://github.com/microsoft/MPNet)]    
-
+* [UNILMv2: Pseudo-Masked Language Models for
+Unified Language Model Pre-Training)](https://arxiv.org/pdf/2002.12804.pdf)[[github](https://github.com/microsoft/unilm)]    
 
 ### Text Summarization
 * [Positional Encoding to Control Output Sequence Length - Sho Takase(2019)](https://arxiv.org/pdf/1904.07418.pdf)  
