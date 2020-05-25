@@ -342,7 +342,7 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 * [Deleter: Leveraging BERT to Perform Unsupervised Successive Text Compression](https://arxiv.org/abs/1909.03223)
 * [Discourse-Aware Neural Extractive Model for Text Summarization](https://arxiv.org/abs/1910.14142)  
 * [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](https://arxiv.org/pdf/1912.08777.pdf)[[github](https://github.com/google-research/pegasus)]    
-  
+* [Discourse-Aware Neural Extractive Text Summarization](https://arxiv.org/pdf/1910.14142.pdf)[[github](https://github.com/jiacheng-xu/DiscoBERT)]      
 
 
 #### IR
