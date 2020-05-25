@@ -92,6 +92,8 @@ natural language processing paper list
 * [BP-Transformer: Modelling Long-Range Context via Binary Partitioning](https://arxiv.org/abs/1911.04070)  
 * [Recipes for building an open-domain chatbot](https://arxiv.org/pdf/2004.13637.pdf)   
 * [Longformer: The Long-Document Transformer](https://arxiv.org/pdf/2004.05150.pdf)  
+* [UnifiedQA: Crossing Format Boundaries With a Single QA System](https://arxiv.org/pdf/2005.00700.pdf) [[github](https://github.com/allenai/unifiedqa)]  
+
 
 ### Transfer Learning
 * [Deep contextualized word representations - NAACL 2018)](https://arxiv.org/abs/1802.05365)  
