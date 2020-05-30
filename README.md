@@ -560,7 +560,8 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 * [WT5?! Training Text-to-Text Models to Explain their
 Predictions](https://arxiv.org/pdf/2004.14546.pdf)  
 * [TAPAS: Weakly Supervised Table Parsing via Pre-training](https://arxiv.org/pdf/2004.02349.pdf) [[github](https://github.com/google-research/tapas)]  
-
+* [TABERT: Pretraining for Joint Understanding of
+Textual and Tabular Data](https://arxiv.org/pdf/2005.08314.pdf)    
 
 
 # Author
