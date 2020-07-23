@@ -355,6 +355,8 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 * [FAQ Retrieval using Query-Question Similarity and BERT-Based Query-Answer Relevance](https://arxiv.org/abs/1905.02851) (SIGIR2019)
 * [Multi-Stage Document Ranking with BERT](https://arxiv.org/abs/1910.14424)       
 * [REALM: Retrieval-Augmented Language Model Pre-Training](https://kentonl.com/pub/gltpc.2020.pdf)       
+* [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](https://arxiv.org/pdf/2002.08910.pdf) [[github](https://github.com/google-research/google-research/tree/master/t5_closed_book_qa)]         
+* [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2004.04906.pdf) [[github](https://github.com/facebookresearch/DPR)]         
 
 
 ### Generation    
