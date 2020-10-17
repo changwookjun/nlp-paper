@@ -72,6 +72,8 @@ natural language processing paper list
 * [Calibration of Pre-trained Transformers](https://arxiv.org/abs/2003.07892)
 * [exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformers Models](https://arxiv.org/abs/1910.05276) [[github](https://github.com/bhoov/exbert)]  
 * [MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices](https://arxiv.org/pdf/2004.02984.pdf) [[github](https://github.com/google-research/google-research/tree/master/mobilebert)]   
+* [Measuring and Reducing Gendered Correlations in Pre-trained Models](https://arxiv.org/pdf/2010.06032.pdf)  
+
 
 ### Transformer Series
 * [Attention Is All You Need - arXiv 2017)](https://arxiv.org/abs/1706.03762)  
@@ -93,6 +95,7 @@ natural language processing paper list
 * [Recipes for building an open-domain chatbot](https://arxiv.org/pdf/2004.13637.pdf)   
 * [Longformer: The Long-Document Transformer](https://arxiv.org/pdf/2004.05150.pdf)  
 * [UnifiedQA: Crossing Format Boundaries With a Single QA System](https://arxiv.org/pdf/2005.00700.pdf) [[github](https://github.com/allenai/unifiedqa)]  
+* [Big Bird: Transformers for Longer Sequences](https://arxiv.org/pdf/2007.14062.pdf) 
 
 
 ### Transfer Learning
