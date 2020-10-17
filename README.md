@@ -195,6 +195,7 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 * [Domain Adaptive Training BERT for Response Selection](https://arxiv.org/abs/1908.04812)
 * [BERT Goes to Law School: Quantifying the Competitive Advantage of Access to Large Legal Corpora in Contract Understanding](https://arxiv.org/abs/1911.00473)   
 * [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1911.00473) 
+* [Wizard of Wikipedia](https://arxiv.org/pdf/1811.01241.pdf) 
 
 #### Slot filling
 * [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/abs/1902.10909)
