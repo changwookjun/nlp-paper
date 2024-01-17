@@ -542,6 +542,11 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 * [Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT](https://arxiv.org/abs/1909.05840)
 * [Q8BERT: Quantized 8Bit BERT](https://arxiv.org/abs/1910.06188) (NeurIPS2019 WS)
 
+
+### LLM
+* [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf)
+* 
+
 ### Misc
 * [jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models](https://arxiv.org/abs/2003.02249) [[github](https://github.com/nyu-mll/jiant/)]
 * [Cloze-driven Pretraining of Self-attention Networks](https://arxiv.org/abs/1903.07785)
