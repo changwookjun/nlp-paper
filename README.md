@@ -35,9 +35,9 @@ natural language processing paper list
 * [Other than English models](#other-than-english-models) 
 * [Domain specific](#domain-specific) 
 * [Multi-modal](#multi-modal) 
-* [Model compression](#model-compression) 
+* [Model compression](#model-compression)
+* [LLM](#LLM) 
 * [Misc](#misc) 
-
 
 ### Bert Series
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding  - NAACL 2019)](https://arxiv.org/abs/1810.04805)  
