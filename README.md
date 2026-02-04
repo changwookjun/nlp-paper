@@ -72,7 +72,10 @@ natural language processing paper list
 * [Calibration of Pre-trained Transformers](https://arxiv.org/abs/2003.07892)
 * [exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformers Models](https://arxiv.org/abs/1910.05276) [[github](https://github.com/bhoov/exbert)]  
 * [MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices](https://arxiv.org/pdf/2004.02984.pdf) [[github](https://github.com/google-research/google-research/tree/master/mobilebert)]   
-* [Measuring and Reducing Gendered Correlations in Pre-trained Models](https://arxiv.org/pdf/2010.06032.pdf)  
+* [Measuring and Reducing Gendered Correlations in Pre-trained Models](https://arxiv.org/pdf/2010.06032.pdf)
+* [DEBERTA: DECODING-ENHANCED BERT WITH DISENTANGLED ATTENTION](https://arxiv.org/pdf/2006.03654) [[github](https://github.com/microsoft/DeBERTa)] (ACL2021)   
+* [STRUCTBERT: INCORPORATING LANGUAGE STRUCTURES INTO PRE-TRAINING FOR DEEP LANGUAGE UNDERSTANDING](https://arxiv.org/pdf/1908.04577) (ACL2021)
+* [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/pdf/1907.10529) [[github](https://github.com/facebookresearch/SpanBERT)] (ACL2021)   
 
 
 ### Transformer Series
