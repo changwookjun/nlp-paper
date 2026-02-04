@@ -99,6 +99,13 @@ natural language processing paper list
 * [Longformer: The Long-Document Transformer](https://arxiv.org/pdf/2004.05150.pdf)  
 * [UnifiedQA: Crossing Format Boundaries With a Single QA System](https://arxiv.org/pdf/2005.00700.pdf) [[github](https://github.com/allenai/unifiedqa)]  
 * [Big Bird: Transformers for Longer Sequences](https://arxiv.org/pdf/2007.14062.pdf) 
+* [Longformer: The Long-Document Transformer](https://arxiv.org/pdf/2004.05150) [[github](https://github.com/allenai/longformer)] (ACL2021)
+* [REFORMER: THE EFFICIENT TRANSFORMER](https://arxiv.org/pdf/2001.04451) (ACL2021)
+* [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/pdf/2006.04768) (ACL2021)
+* [RETHINKING ATTENTION WITH PERFORMERS](https://arxiv.org/pdf/2009.14794) [[github](https://github.com/google-research/google-research/blob/master/performer/fast_attention/tensorflow/fast_attention.py)] (ICLR2021)
+* [Big Bird: Transformers for Longer Sequences](https://arxiv.org/pdf/2007.14062) (ACL2021)
+
+
 
 
 ### Transfer Learning
@@ -111,7 +118,7 @@ natural language processing paper list
 * [MASS: Masked Sequence to Sequence Pre-training for Language Generation - ICML 2019)](https://arxiv.org/abs/1905.02450)  
 * [MPNet: Masked and Permuted Pre-training for Language Understanding)](https://arxiv.org/pdf/2004.09297.pdf)[[github](https://github.com/microsoft/MPNet)]    
 * [UNILMv2: Pseudo-Masked Language Models for
-Unified Language Model Pre-Training)](https://arxiv.org/pdf/2002.12804.pdf)[[github](https://github.com/microsoft/unilm)]    
+* Unified Language Model Pre-Training)](https://arxiv.org/pdf/2002.12804.pdf)[[github](https://github.com/microsoft/unilm)]    
 
 ### Text Summarization
 * [Positional Encoding to Control Output Sequence Length - Sho Takase(2019)](https://arxiv.org/pdf/1904.07418.pdf)  
@@ -120,8 +127,11 @@ Unified Language Model Pre-Training)](https://arxiv.org/pdf/2002.12804.pdf)[[git
 * [A Unified Model for Extractive and Abstractive Summarization using Inconsistency Loss - Wan-Ting Hsu(2018)](https://arxiv.org/pdf/1805.06266.pdf)   
 * [A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents - Arman Cohan(2018)](https://arxiv.org/pdf/1804.05685.pdf)   
 * [GENERATING WIKIPEDIA BY SUMMARIZING LONG SEQUENCES - Peter J. Liu(2018)](https://arxiv.org/pdf/1801.10198.pdf)   
-* [Get To The Point: Summarization with Pointer-Generator Networks - Abigail See(2017)](https://arxiv.org/pdf/1704.04368.pdf) * [A Neural Attention Model for Sentence Summarization - Alexander M. Rush(2015)](https://www.aclweb.org/anthology/D15-1044)   
-
+* [Get To The Point: Summarization with Pointer-Generator Networks - Abigail See(2017)](https://arxiv.org/pdf/1704.04368.pdf)
+* [A Neural Attention Model for Sentence Summarization - Alexander M. Rush(2015)](https://www.aclweb.org/anthology/D15-1044)   
+* [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](https://arxiv.org/pdf/1912.08777) (ACL2021)
+* [Abstractive Text Summarization Using BART](https://ieeexplore.ieee.org/document/9972639) (ACL2021)  
+* [CTRLSUM: TOWARDS GENERIC CONTROLLABLE TEXT SUMMARIZATION](https://arxiv.org/pdf/2012.04281) (ACL2021)  
 
 ### Sentiment Analysis
 * [Multi-Task Deep Neural Networks for Natural Language Understanding - Xiaodong Liu(2019)](https://arxiv.org/pdf/1901.11504.pdf)  
@@ -141,6 +151,9 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 * [Bidirectional Attention Flow for Machine Comprehension - Minjoon Seo(2018)](https://arxiv.org/pdf/1611.01603.pdf) 
 * [Reinforced Mnemonic Reader for Machine Reading Comprehension - Minghao Hu(2017)](https://arxiv.org/pdf/1705.02798.pdf)  
 * [Neural Variational Inference for Text Processing - Yishu Miao(2015)](https://arxiv.org/pdf/1511.06038.pdf)  
+* [UnifiedQA: Crossing Format Boundaries with a Single QA System](https://arxiv.org/pdf/2005.00700) [[github](https://github.com/allenai/unifiedqa)] (ACL2021)
+* [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/pdf/2002.08909) (ACL2021)
+* 
 
 ### Machine Translation    
 * [The Evolved Transformer - David R. So(2019)](https://arxiv.org/pdf/1901.11117.pdf)  
@@ -282,6 +295,7 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 * [An Investigation of Transfer Learning-Based Sentiment Analysis in Japanese](https://arxiv.org/abs/1905.09642) (ACL2019)
 * ["Mask and Infill" : Applying Masked Language Model to Sentiment Transfer](https://arxiv.org/abs/1908.08039)
 * [Adversarial Training for Aspect-Based Sentiment Analysis with BERT](https://arxiv.org/abs/2001.11316)
+* [Utilizing BERT Intermediate Layers for Aspect Based Sentiment Analysis and Natural Language Inference](https://arxiv.org/abs/2002.04815)
 * [Utilizing BERT Intermediate Layers for Aspect Based Sentiment Analysis and Natural Language Inference](https://arxiv.org/abs/2002.04815)
 
 #### Relation extraction
@@ -449,7 +463,7 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 * [oLMpics -- On what Language Model Pre-training Captures](https://arxiv.org/abs/1912.13283)
 * [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](http://colinraffel.com/publications/arxiv2020how.pdf)
 * [What Does My QA Model Know? Devising Controlled Probes using Expert Knowledge](https://arxiv.org/abs/1912.13337)
-
+* [Attention is not Explanation](https://arxiv.org/pdf/1902.10186) (ACL2021)
 
 ### Multi-lingual  
 * [Multilingual Constituency Parsing with Self-Attention and Pre-Training](https://arxiv.org/abs/1812.11760) (ACL2019)
@@ -471,6 +485,7 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 * [Fully Unsupervised Crosslingual Semantic Textual Similarity Metric Based on BERT for Identifying Parallel Data](https://www.aclweb.org/anthology/K19-1020/) (CoNLL2019)
 * [What the \[MASK\]? Making Sense of Language-Specific BERT Models](https://arxiv.org/abs/2003.02912)
 * [XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization](https://arxiv.org/abs/2003.11080)
+* [mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer](https://arxiv.org/pdf/2010.11934) (ACL2021) [[github](https://github.com/google-research/multilingual-t5)] 
 
 ### Other than English models    
 * [CamemBERT: a Tasty French Language Model](https://arxiv.org/abs/1911.03894)
