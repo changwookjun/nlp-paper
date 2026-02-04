@@ -117,8 +117,13 @@ natural language processing paper list
 * [Unified Language Model Pre-training for Natural Language Understanding and Generation - arXiv 2019)](https://arxiv.org/abs/1905.03197)  
 * [MASS: Masked Sequence to Sequence Pre-training for Language Generation - ICML 2019)](https://arxiv.org/abs/1905.02450)  
 * [MPNet: Masked and Permuted Pre-training for Language Understanding)](https://arxiv.org/pdf/2004.09297.pdf)[[github](https://github.com/microsoft/MPNet)]    
-* [UNILMv2: Pseudo-Masked Language Models for
-* Unified Language Model Pre-Training)](https://arxiv.org/pdf/2002.12804.pdf)[[github](https://github.com/microsoft/unilm)]    
+* [UNILMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training)](https://arxiv.org/pdf/2002.12804.pdf)[[github](https://github.com/microsoft/unilm)]    
+* [AdapterFusion:Non-Destructive Task Composition for Transfer Learning)](https://arxiv.org/pdf/2005.00247) (ACL2022)  
+* [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190) (ACL2022)
+* [LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2106.09685) (ACL2022)
+
+
+
 
 ### Text Summarization
 * [Positional Encoding to Control Output Sequence Length - Sho Takase(2019)](https://arxiv.org/pdf/1904.07418.pdf)  
@@ -214,7 +219,8 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 * [Domain Adaptive Training BERT for Response Selection](https://arxiv.org/abs/1908.04812)
 * [BERT Goes to Law School: Quantifying the Competitive Advantage of Access to Large Legal Corpora in Contract Understanding](https://arxiv.org/abs/1911.00473)   
 * [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1911.00473) 
-* [Wizard of Wikipedia](https://arxiv.org/pdf/1811.01241.pdf) 
+* [Wizard of Wikipedia](https://arxiv.org/pdf/1811.01241.pdf)
+* [BlenderBot 3: a deployed conversational agent that continually∗ learns to responsibly engage](https://arxiv.org/pdf/2208.03188) (ACL2022)
 
 #### Slot filling
 * [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/abs/1902.10909)
@@ -279,6 +285,9 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 * [Ellipsis and Coreference Resolution as Question Answering](https://arxiv.org/abs/1908.11141)
 * [Coreference Resolution as Query-based Span Prediction](https://arxiv.org/abs/1911.01746)
 * [Multi-task Learning Based Neural Bridging Reference Resolution](https://arxiv.org/abs/2003.03666)
+
+
+
 
 #### Word sense disambiguation  
 * [GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge](https://arxiv.org/abs/1908.07245) (EMNLP2019)
@@ -610,6 +619,8 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 * [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288.pdf)
 * [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf)
 * [TinyLlama: An Open-Source Small Language Model](https://arxiv.org/pdf/2401.02385.pdf)
+* [Scaling Instruction-Finetuned Language Models](https://arxiv.org/pdf/2210.11416) [[github](https://arxiv.org/pdf/2210.11416)] (ACL2023)
+
 
 
 
