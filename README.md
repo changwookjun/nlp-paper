@@ -1097,6 +1097,7 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 * [Multi-Token Attention](https://arxiv.org/abs/2504.00927) (arXiv 2025)
 * [Log-Linear Attention](https://arxiv.org/abs/2506.04761) (arXiv 2025)
 * [Mercury: Ultra-Fast Language Models Based on Diffusion](https://arxiv.org/abs/2506.17298) (arXiv 2025)
+* [Empirical Analysis of Decoding Biases in Masked Diffusion Models](https://arxiv.org/abs/2508.13021) (ACL2026)
 * [QwenLong-L1.5: Post-Training Recipe for Long-Context Reasoning and Memory Management](https://arxiv.org/abs/2512.12967) (arXiv 2025)
 * [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880) (arXiv 2025)
 * [Fast-weight Product Key Memory](https://arxiv.org/abs/2601.00671) (arXiv 2026)
